@@ -6,7 +6,8 @@ import style from '../styles/style.css';
 import responsive from '../styles/responsive.css';
 import animate from '../styles/animate.css';
 
-export const links = () => [{
+export const links = () => [
+  {
   rel: 'stylesheet',
   href: bootstrap
 },
@@ -106,13 +107,10 @@ export default function Index() {
         <div className="col-md-7">
           <div className="caption d-table">
             <div className="d-table-cell align-middle">
-              <h5>30% off for limited time</h5>
-              <h1>Best Fashionable Digital Watch.</h1>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet
-                nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium ligula.</p>
+              <h1>Werde sichtbar für Kunden in deiner direkten Umgebung</h1>
+              <h3>Stele sicher, dass dein Unternehmen in bis zu 36 Online-Verzeichnissen sichtbar ist.</h3>
               <ul>
-                <li><a href="#">Shop Now<i className="fa fa-long-arrow-right"></i></a></li>
-                <li><span>Strating at $199</span></li>
+                <li><a href="#">Jetzt sichtbar werden<i className="fa fa-long-arrow-right"></i></a></li>
               </ul>
             </div>
           </div>
@@ -121,7 +119,7 @@ export default function Index() {
         <div className="col-md-5">
           <div className="caption-img d-table text-center">
             <div className="d-table-cell align-middle">
-              <img src="assets/images/watch-img-1.png" className="img-fluid animation-jump" alt="image" />
+              <img src="../styles/images/iphone.png" className="img-fluid animation-jump" alt="image" />
             </div>
           </div>
         </div>
