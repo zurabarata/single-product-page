@@ -1,0 +1,1360 @@
+/*--------------------------------------------------------------
+    laptop, desktop
+---------------------------------------------------------------*/
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .caption h1 {
+        line-height: 70px;
+        font-size: 60px
+    }
+
+    .about-cont {
+        padding-left: 25px;
+    }
+
+    #facilities-area {
+        padding: 100px 0 75px;
+    }
+
+    .facilty-single i {
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+        font-size: 40px;
+    }
+
+    .facilty-single i {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 35px;
+    }
+
+    .facilty-single .icon {
+        width: 22%;
+    }
+
+    .facilty-single .cont {
+        width: 78%;
+        padding: 0 0 0 15px;
+    }
+
+    .facilty-single h4 {
+        font-size: 25px;
+        line-height: 35px
+    }
+
+    .feat-img img {
+        max-width: 250px;
+    }
+
+    .testi-single.two .client-comment {
+        padding-left: 20px;
+    }
+
+    .slider .caption-img img {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+}
+
+
+/*--------------------------------------------------------------
+    tablet
+---------------------------------------------------------------*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    h2 {
+        font-size: 44px;
+        line-height: 54px;
+    }
+
+    h4 {
+        font-size: 23px;
+        line-height: 33px;
+    }
+
+    .navbar-toggler {
+        background-color: #ff5740;
+        color: #fff;
+    }
+
+    .header-cont-info li i {
+        padding-right: 3px;
+    }
+
+    .header-social li {
+        padding: 0;
+    }
+
+    .navbar-nav .nav-item {
+        text-align: center;
+    }
+
+    .navbar-nav {
+        padding: 25px 0 0
+    }
+
+    .navbar-nav.shop-btn {
+        padding: 0
+    }
+
+    .navbar-nav.shop-btn .nav-link {
+        display: inline-block;
+        margin: 20px 0 25px;
+    }
+
+    .caption h1 {
+        font-size: 47px;
+        line-height: 58px
+    }
+
+    #hero-area {
+        padding: 130px 0;
+    }
+
+    .header-top li {
+        padding-right: 10px;
+    }
+
+    .caption p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    #hero-area.hero-two {
+        padding: 10px 0 0;
+    }
+
+    #hero-area.hero-two .caption-img {
+        margin: 100px 0 0;
+    }
+
+    .about-img.bg {
+        text-align: center;
+        margin-bottom: 100px
+    }
+
+    .about-img img {
+        max-width: 200px;
+    }
+
+    .about-cont {
+        padding-left: 0;
+        padding-top: 80px;
+    }
+
+    .why-choose-img {
+        text-align: center
+    }
+
+    .why-choose-img img {
+        max-width: 200px;
+    }
+
+    #about-area {
+        padding: 18px 0 100px;
+    }
+
+    .facilty-single i {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 36px;
+    }
+
+    .facilty-single .cont {
+        padding: 0 0 0 15px;
+    }
+
+    .facilty-single h4 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    #facilities-area {
+        padding: 100px 0 75px;
+    }
+
+    .cont-info {
+        margin: 30px 0 0 20px;
+    }
+
+    .footer-single {
+        margin-bottom: 40px;
+    }
+
+    .footer-top {
+        padding: 90px 0 30px;
+    }
+
+    .feat-img img {
+        max-width: 150px;
+    }
+
+    .feat-icon {
+        width: 100%;
+        margin: 0 0 10px;
+    }
+
+    .why-choose-single.two .icon {
+        width: 10%;
+    }
+
+    .why-choose-single.two .cont {
+        width: 90%;
+    }
+
+    .testi-single.two .client-img {
+        width: 25%;
+    }
+
+    .testi-single.two .client-comment {
+        width: 75%;
+        padding-left: 20px;
+    }
+
+    .offer-single .discount-cont {
+        text-align: center;
+        margin: 0 0 20px;
+    }
+
+    .discount-cont h3 {
+        margin: 0 0 10px;
+        font-size: 36px;
+        line-height: 46px;
+    }
+
+    .discount-cont a {
+        padding: 10px 30px;
+    }
+
+    #faq-area {
+        padding: 95px 0 55px;
+    }
+
+    .feat-single.three .feat-cont {
+        padding-left: 20px;
+    }
+
+    #hero-area.hero-three {
+        padding: 140px 0 180px;
+    }
+
+    .faq-img img {
+        max-width: 230px;
+    }
+
+    .card-header a {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .feat-single.two .feat-cont {
+        width: 100%;
+    }
+
+    #feat-area .sec-heading {
+        text-align: left !important;
+    }
+}
+
+
+/*--------------------------------------------------------------
+    large mobile
+----------------------------------------------------------------*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    h6 {
+        font-size: 14px;
+        line-height: 24px
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 26px
+    }
+
+    .navbar-toggler {
+        background-color: #ff5740;
+        color: #fff;
+    }
+
+    .header-top {
+        text-align: center
+    }
+
+    .header-social {
+        text-align: center !important;
+        margin: 15px 0 8px;
+    }
+
+    .navbar-nav {
+        padding-top: 25px;
+    }
+
+    .navbar-nav.shop-btn .nav-link {
+        display: inline-block;
+    }
+
+    .navbar-nav.shop-btn {
+        text-align: center;
+        margin: 20px 0 25px;
+        padding: 0
+    }
+
+    .caption {
+        text-align: center;
+    }
+
+    #hero-area {
+        padding: 100px 0 150px;
+    }
+
+    h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .caption h1 {
+        line-height: 60px;
+    }
+
+    .caption-img {
+        margin: 60px 0 0;
+    }
+
+    .caption-img img {
+        max-width: 300px;
+    }
+
+    .caption h5 {
+        margin-bottom: 15px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .caption li a {
+        line-height: 1;
+    }
+
+    .about-cont {
+        padding-left: 0;
+        margin: 60px 0 0;
+    }
+
+    .about-cont ul {
+        margin: 0;
+    }
+
+    .about-cont li {
+        font-size: 18px;
+    }
+
+    .about-btn {
+        margin: 40px 0 0;
+    }
+
+    .about-cont a {
+        line-height: 1;
+    }
+
+    .about-cont p {
+        margin: 0 0 25px;
+    }
+
+    .feat-single .icon {
+        width: 100%;
+    }
+
+    .feat-single .title {
+        width: 100%;
+    }
+
+    .feat-head {
+        margin-bottom: 0px;
+    }
+
+    .discount-cont {
+        text-align: center;
+    }
+
+    .discount-cont a {
+        margin: 25px 0 50px;
+        line-height: 1;
+    }
+
+    .testi-single {
+        margin: 0 30px;
+    }
+
+    .testi-single h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .newsletter-form input,
+    .newsletter-form button {
+        height: 55px;
+    }
+
+    #why-choose-area .sec-heading {
+        margin: 60px 0 40px 0px;
+    }
+
+    .why-choose-cont {
+        margin-left: 0;
+    }
+
+    .facilty-single .icon {
+        width: 100%;
+    }
+
+    .facilty-single .cont {
+        width: 100%;
+    }
+
+    .facilty-single {
+        margin-bottom: 30px;
+        text-align: center
+    }
+
+    .facilty-single i {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 40px;
+        margin: 0 0 10px
+    }
+
+    #facilities-area {
+        padding: 100px 0 55px;
+    }
+
+    .cont-info {
+        margin: 50px 0 0 0px;
+    }
+
+    #contact-area {
+        padding: 95px 0 50px;
+    }
+
+    #contact-area .sec-heading {
+        text-align: center;
+    }
+
+    .footer-single {
+        margin: 0 0 40px;
+    }
+
+    .footer-top {
+        padding: 90px 0;
+    }
+
+    .feat-single {
+        text-align: center;
+        padding: 0 10%
+    }
+
+    #hero-area.hero-two {
+        padding: 100px 0 0;
+    }
+
+    .about-single {
+        padding: 0 10%;
+        margin: 0 0 50px
+    }
+
+    .about-single i {
+        margin: 0 0 20px;
+    }
+
+    #about-area.two {
+        padding: 85px 0 40px;
+    }
+
+    .feat-icon,
+    .feat-cont {
+        width: 100%;
+    }
+
+    .feat-img img {
+        max-width: 200px;
+        margin: 20px 0 50px;
+    }
+
+    .why-choose-single.two .icon {
+        width: 10%;
+    }
+
+    .why-choose-single.two .cont {
+        width: 90%;
+    }
+
+    .testi-single img {
+        max-width: 75px;
+    }
+
+    .offer-single {
+        margin: 0 0 50px;
+    }
+
+    .discount-img {
+        margin: 40px 0 10px;
+        text-align: center;
+    }
+
+    .discount-img img {
+        max-width: 250px;
+    }
+
+    #discount-area {
+        padding: 95px 0 40px;
+    }
+
+    .slider .caption-img img {
+        max-width: 300px;
+        margin: 0 auto 70px;
+    }
+
+    #hero-area.hero-three {
+        padding: 45px 0 160px;
+    }
+
+    .slider .owl-dots {
+        bottom: -120px;
+    }
+
+    .feat-single.three .feat-icon {
+        width: 100%;
+    }
+
+    .feat-single.three .feat-cont {
+        width: 100%;
+    }
+
+    #about-area.three .about-cont {
+        padding-left: 0;
+        margin: 0 0 60px;
+    }
+
+    .faq-img img {
+        max-width: 300px;
+        margin: 0 0 60px;
+    }
+
+    .card-header a {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
+
+
+/*--------------------------------------------------------------
+   medium mobile
+----------------------------------------------------------------*/
+
+@media only screen and (min-width: 360px) and (max-width: 479px) {
+    h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    h6 {
+        font-size: 14px;
+        line-height: 24px
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 26px
+    }
+
+    .navbar-toggler {
+        background-color: #ff5740;
+        color: #fff;
+    }
+
+    .header-top {
+        text-align: center
+    }
+
+    .header-social {
+        text-align: center !important;
+        margin: 15px 0 8px;
+    }
+
+    .navbar-nav {
+        padding-top: 25px;
+    }
+
+    .navbar-nav.shop-btn .nav-link {
+        display: inline-block;
+    }
+
+    .navbar-nav.shop-btn {
+        text-align: center;
+        margin: 20px 0 25px;
+        padding: 0
+    }
+
+    .caption {
+        text-align: center;
+    }
+
+    #hero-area {
+        padding: 100px 0 130px;
+    }
+
+    .caption p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    h1 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+
+    h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+
+    .caption h1 {
+        line-height: 55px;
+    }
+
+    .caption-img {
+        margin: 40px 0 0;
+    }
+
+    .caption-img img {
+        max-width: 250px;
+    }
+
+    .caption h5 {
+        margin-bottom: 15px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .caption li a {
+        line-height: 1;
+    }
+
+    .caption li a {
+        margin: 0 0 25px;
+    }
+
+    .about-cont {
+        padding-left: 0;
+        margin: 60px 0 0;
+    }
+
+    .about-cont ul {
+        margin: 0;
+    }
+
+    .about-cont li {
+        font-size: 18px;
+    }
+
+    .about-btn {
+        margin: 40px 0 0;
+    }
+
+    .about-cont a {
+        line-height: 1;
+    }
+
+    .about-cont p {
+        margin: 0 0 25px;
+    }
+
+    .feat-single .icon {
+        width: 100%;
+    }
+
+    .feat-single .title {
+        width: 100%;
+    }
+
+    .feat-head {
+        margin-bottom: 0px;
+    }
+
+    .discount-cont {
+        text-align: center;
+    }
+
+    .discount-cont a {
+        margin: 25px 0 35px;
+        line-height: 1;
+    }
+
+    .testi-single {
+        margin: 0 30px;
+    }
+
+    .testi-single h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .newsletter-form input,
+    .newsletter-form button {
+        height: 55px;
+    }
+
+    #why-choose-area .sec-heading {
+        margin: 60px 0 40px 0px;
+    }
+
+    .why-choose-cont {
+        margin-left: 0;
+    }
+
+    .facilty-single .icon {
+        width: 100%;
+    }
+
+    .facilty-single .cont {
+        width: 100%;
+    }
+
+    .facilty-single {
+        margin-bottom: 30px;
+        text-align: center
+    }
+
+    .facilty-single i {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 40px;
+        margin: 0 0 10px
+    }
+
+    #facilities-area {
+        padding: 80px 0 20px;
+    }
+
+    .cont-info {
+        margin: 50px 0 0 0px;
+    }
+
+    #contact-area {
+        padding: 80px 0 30px;
+    }
+
+    #contact-area .sec-heading {
+        text-align: center;
+    }
+
+    .footer-single {
+        margin: 0 0 25px;
+    }
+
+    .footer-top {
+        padding: 75px 0;
+    }
+
+    .feat-single {
+        text-align: center;
+        padding: 0 10%
+    }
+
+    #hero-area.hero-two {
+        padding: 100px 0 0;
+    }
+
+    .about-single {
+        padding: 0 10%;
+        margin: 0 0 50px
+    }
+
+    .about-single i {
+        margin: 0 0 20px;
+    }
+
+    #about-area.two {
+        padding: 75px 0 15px;
+    }
+
+    .feat-icon,
+    .feat-cont {
+        width: 100%;
+    }
+
+    .feat-img img {
+        max-width: 200px;
+        margin: 20px 0 50px;
+    }
+
+    .why-choose-single.two .icon {
+        width: 10%;
+    }
+
+    .why-choose-single.two .cont {
+        width: 90%;
+        padding-left: 10px
+    }
+
+    .testi-single img {
+        max-width: 75px;
+    }
+
+    .offer-single {
+        margin: 0 0 50px;
+    }
+
+    .discount-img {
+        text-align: center;
+    }
+
+    .discount-img img {
+        max-width: 250px;
+    }
+
+    #discount-area {
+        padding: 80px 0 70px;
+    }
+
+    .slider .caption-img img {
+        max-width: 250px;
+        margin: 0 auto 70px;
+    }
+
+    #hero-area.hero-three {
+        padding: 45px 0 160px;
+    }
+
+    .slider .owl-dots {
+        bottom: -120px;
+    }
+
+    .feat-single.three .feat-icon {
+        width: 100%;
+    }
+
+    .feat-single.three .feat-cont {
+        width: 100%;
+    }
+
+    #about-area.three .about-cont {
+        padding-left: 0;
+        margin: 0 0 60px;
+    }
+
+    .faq-img img {
+        max-width: 300px;
+        margin: 0 0 60px;
+    }
+
+    .card-header a {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    #about-area {
+        padding: 80px 0;
+    }
+
+    #feat-area {
+        padding: 80px 0 30px;
+    }
+
+    #video-area {
+        padding: 75px 0 80px;
+    }
+
+    #testi-area {
+        padding: 70px 0 130px;
+    }
+
+    #product-area {
+        padding: 75px 0 85px;
+    }
+
+    #faq-area {
+        padding: 75px 0 40px;
+    }
+
+    #newsletter-area {
+        padding: 75px 0 80px;
+    }
+
+    .newsletter-form button {
+        padding: 0 20px;
+    }
+
+    #why-choose-area {
+        padding: 80px 0 35px;
+    }
+
+    .why-choose-single .icon {
+        width: 12%;
+    }
+
+    .why-choose-single .cont {
+        width: 78%;
+    }
+
+    #feat-area.two {
+        padding: 75px 0 35px;
+    }
+
+    #why-choose-area.two {
+        padding: 76px 0 35px;
+    }
+
+    .why-choose-single.two h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .testi-single.two .client-comment {
+        padding-left: 20px;
+    }
+
+    .discount-cont.two {
+        margin-bottom: 20px;
+    }
+
+    #discount-area.two {
+        padding: 80px 0 35px;
+    }
+
+    #discount-area.three {
+        padding: 70px 0 50px;
+    }
+
+    .testi-carousel-three .testi-single {
+        padding: 0;
+    }
+
+    #faq-area.three {
+        padding: 75px 0 65px;
+    }
+}
+
+
+/*--------------------------------------------------------------
+    small mobile
+----------------------------------------------------------------*/
+
+@media only screen and (min-width: 320px) and (max-width: 359px) {
+    h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    h6 {
+        font-size: 14px;
+        line-height: 24px
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 26px
+    }
+
+    .navbar-toggler {
+        background-color: #ff5740;
+        color: #fff;
+    }
+
+    .header-top {
+        text-align: center
+    }
+
+    .header-social {
+        text-align: center !important;
+        margin: 15px 0 8px;
+    }
+
+    .navbar-nav {
+        padding-top: 25px;
+    }
+
+    .navbar-nav.shop-btn .nav-link {
+        display: inline-block;
+    }
+
+    .navbar-nav.shop-btn {
+        text-align: center;
+        margin: 20px 0 25px;
+        padding: 0
+    }
+
+    .caption {
+        text-align: center;
+    }
+
+    #hero-area {
+        padding: 95px 0 115px;
+    }
+
+    .caption p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    .caption h1 {
+        line-height: 50px;
+    }
+
+    .caption-img {
+        margin: 40px 0 0;
+    }
+
+    .caption-img img {
+        max-width: 250px;
+    }
+
+    .caption h5 {
+        margin-bottom: 15px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .caption li a {
+        line-height: 1;
+    }
+
+    .caption li a {
+        margin: 0 0 25px;
+    }
+
+    .about-cont {
+        padding-left: 0;
+        margin: 60px 0 0;
+    }
+
+    .about-cont ul {
+        margin: 0;
+    }
+
+    .about-cont li {
+        font-size: 18px;
+    }
+
+    .about-btn {
+        margin: 40px 0 0;
+    }
+
+    .about-cont a {
+        line-height: 1;
+    }
+
+    .about-cont p {
+        margin: 0 0 25px;
+    }
+
+    .feat-single .icon {
+        width: 100%;
+    }
+
+    .feat-single .title {
+        width: 100%;
+    }
+
+    .feat-head {
+        margin-bottom: 0px;
+    }
+
+    .discount-cont {
+        text-align: center;
+    }
+
+    .discount-cont a {
+        margin: 25px 0 35px;
+        line-height: 1;
+    }
+
+    .testi-single {
+        margin: 40px 20px 30px;
+    }
+
+    .testi-single h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .newsletter-form input,
+    .newsletter-form button {
+        height: 55px;
+    }
+
+    #why-choose-area .sec-heading {
+        margin: 60px 0 40px 0px;
+    }
+
+    .why-choose-cont {
+        margin-left: 0;
+    }
+
+    .facilty-single .icon {
+        width: 100%;
+    }
+
+    .facilty-single .cont {
+        width: 100%;
+    }
+
+    .facilty-single {
+        margin-bottom: 30px;
+        text-align: center
+    }
+
+    .facilty-single i {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 40px;
+        margin: 0 0 10px
+    }
+
+    #facilities-area {
+        padding: 80px 0 20px;
+    }
+
+    .cont-info {
+        margin: 50px 0 0 0px;
+    }
+
+    .prod-img img {
+        max-width: 200px;
+    }
+
+    #contact-area {
+        padding: 80px 0 30px;
+    }
+
+    #contact-area .sec-heading {
+        text-align: center;
+    }
+
+    .footer-single {
+        margin: 0 0 25px;
+    }
+
+    .footer-top {
+        padding: 75px 0;
+    }
+
+    .feat-single {
+        text-align: center;
+        padding: 0 10%
+    }
+
+    #hero-area.hero-two {
+        padding: 100px 0 0;
+    }
+
+    .about-single {
+        padding: 0 10%;
+        margin: 0 0 50px
+    }
+
+    .about-single i {
+        margin: 0 0 20px;
+    }
+
+    #about-area.two {
+        padding: 75px 0 15px;
+    }
+
+    .feat-icon,
+    .feat-cont {
+        width: 100%;
+    }
+
+    .feat-img img {
+        max-width: 200px;
+        margin: 20px 0 50px;
+    }
+
+    .why-choose-single.two .icon {
+        width: 10%;
+    }
+
+    .why-choose-single.two .cont {
+        width: 90%;
+        padding-left: 10px
+    }
+
+    .testi-single img {
+        max-width: 75px;
+    }
+
+    .offer-single {
+        margin: 0 0 50px;
+    }
+
+    .discount-img {
+        text-align: center;
+    }
+
+    .discount-img img {
+        max-width: 200px;
+    }
+
+    #discount-area {
+        padding: 80px 0 70px;
+    }
+
+    .slider .caption-img img {
+        max-width: 250px;
+        margin: 0 auto 70px;
+    }
+
+    #hero-area.hero-three {
+        padding: 45px 0 160px;
+    }
+
+    .slider .owl-dots {
+        bottom: -120px;
+    }
+
+    .feat-single.three .feat-icon {
+        width: 100%;
+    }
+
+    .feat-single.three .feat-cont {
+        width: 100%;
+    }
+
+    #about-area.three .about-cont {
+        padding-left: 0;
+        margin: 0 0 60px;
+    }
+
+    .faq-img img {
+        max-width: 200px;
+        margin: 0 0 60px;
+    }
+
+    .card-header a {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    #about-area {
+        padding: 80px 0;
+    }
+
+    #feat-area {
+        padding: 80px 0 30px;
+    }
+
+    #video-area {
+        padding: 75px 0 80px;
+    }
+
+    #testi-area {
+        padding: 70px 0 130px;
+    }
+
+    #product-area {
+        padding: 75px 0 85px;
+    }
+
+    #faq-area {
+        padding: 75px 0 40px;
+    }
+
+    #newsletter-area {
+        padding: 75px 0 80px;
+    }
+
+    .newsletter-form button {
+        padding: 0 20px;
+    }
+
+    #why-choose-area {
+        padding: 80px 0 35px;
+    }
+
+    .why-choose-single .icon {
+        width: 12%;
+    }
+
+    .why-choose-single .cont {
+        width: 78%;
+        padding-left: 10px
+    }
+
+    #feat-area.two {
+        padding: 75px 0 35px;
+    }
+
+    #why-choose-area.two {
+        padding: 76px 0 35px;
+    }
+
+    .why-choose-single.two h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .testi-single.two .client-comment {
+        padding-left: 20px;
+    }
+
+    .discount-cont.two {
+        margin-bottom: 20px;
+    }
+
+    #discount-area.two {
+        padding: 80px 0 35px;
+    }
+
+    #discount-area.three {
+        padding: 70px 0 50px;
+    }
+
+    .testi-carousel-three .testi-single {
+        padding: 0;
+    }
+
+    #faq-area.three {
+        padding: 75px 0 65px;
+    }
+}
