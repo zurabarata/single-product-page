@@ -39,7 +39,7 @@ export default function Index() {
   return (
       <>
       <header id="header">
-        <div className="header-top">
+{/*        <div className="header-top">
           <div className="container">
             <div className="row header-top-wrap">
               <div className="col-md-8">
@@ -62,7 +62,7 @@ export default function Index() {
               </div>
             </div>
           </div>
-        </div>
+        </div>*/}
         <div className="mainmenu">
           <div className="container">
             <nav className="navbar navbar-expand-lg">
