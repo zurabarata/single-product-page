@@ -78,24 +78,18 @@ export default function Index() {
                       <a className="nav-link active" href="#" data-scroll-nav="0">Home</a>
                     </li>
                     <li className="nav-item">
-                      <a className="nav-link" href="#" data-scroll-nav="1">Features</a>
+                      <a className="nav-link" href="#" data-scroll-nav="1">Produkte</a>
                     </li>
                     <li className="nav-item">
-                      <a className="nav-link" href="#" data-scroll-nav="2">Review</a>
+                      <a className="nav-link" href="#" data-scroll-nav="2">Service</a>
                     </li>
                     <li className="nav-item">
-                      <a className="nav-link" href="#" data-scroll-nav="3">Product</a>
-                    </li>
-                    <li className="nav-item">
-                      <a className="nav-link" href="#" data-scroll-nav="4">Faq</a>
-                    </li>
-                    <li className="nav-item">
-                      <a className="nav-link" href="#" data-scroll-nav="5">Contact</a>
+                      <a className="nav-link" href="#" data-scroll-nav="3">Über uns</a>
                     </li>
                   </ul>
                   <ul className="navbar-nav shop-btn">
                     <li className="nav-item">
-                      <a className="nav-link active" href="#" data-scroll-nav="3">Shop Now</a>
+                      <a className="nav-link active" href="#" data-scroll-nav="3">Login</a>
                     </li>
                   </ul>
                 </div>
@@ -135,6 +129,35 @@ export default function Index() {
       </div>
     </div>
   </section>
+
+
+        <section id="video-area">
+          <div className="container">
+            <div className="row">
+              <div className="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                <div className="sec-heading text-center">
+                  <h6>Product Demo</h6>
+                  <h2>Get product more information from the video</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic explicabo voluptas nisi iste
+                    reiciendis, tempore commodi necessitatibus, laborum laudantium.</p>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-lg-10 offset-lg-1">
+                <div className="video-player-wrap">
+                  <div className="video-player d-table text-center">
+                    <div className="d-table-cell align-middle">
+                      <a className="popup-video" href="https://www.youtube.com/watch?v=clXBiR01kUM"><i
+                          className="icofont-play"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
       </>
 
 )}
