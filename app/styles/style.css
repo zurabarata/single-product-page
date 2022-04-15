@@ -110,7 +110,7 @@ p {
 }
 
 .bg-gray {
-    background-color: #f6f3ea
+    background-color: #ffffff
 }
 
 .animation-jump {
@@ -652,7 +652,7 @@ p {
 }
 
 .video-player-wrap {
-    background-image: url(../images/watch-img-2.jpg);
+    background-image: url(https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone13pro/ios15-iphone13-pro-camera-cinematic-mode-hero.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

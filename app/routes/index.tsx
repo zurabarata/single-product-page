@@ -40,44 +40,20 @@ export default function Index() {
   return (
       <>
       <header id="header">
-{/*        <div className="header-top">
-          <div className="container">
-            <div className="row header-top-wrap">
-              <div className="col-md-8">
-                <div className="header-cont-info">
-                  <ul>
-                    <li><i className="fa fa-phone"></i> Call Us: +98 54321 67890</li>
-                    <li><i className="fa fa-envelope"></i> Email Us: support@example.com</li>
-                  </ul>
-                </div>
-              </div>
-              <div className="col-md-4">
-                <div className="header-social text-right">
-                  <ul>
-                    <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-                    <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>*/}
         <div className="mainmenu">
           <div className="container">
             <nav className="navbar navbar-expand-lg">
               <div className="container">
-                <a className="logo" href="#"><img src="assets/images/logo.png" alt="logo"/></a>
+                <a className="logo" href=""><img src="https://cdn.shopify.com/s/files/1/0515/4819/2958/products/logo-local_1080x.png?v=1649978786" alt="logo"/></a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent"
                         aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span className="icon-bar"><i className="icofont-navigation-menu"></i></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarContent">
                   <ul className="navbar-nav mx-auto text-center">
-                    <li className="nav-item">
+{/*                    <li className="nav-item">
                       <a className="nav-link active" href="#" data-scroll-nav="0">Home</a>
-                    </li>
+                    </li>*/}
                     <li className="nav-item">
                       <a className="nav-link" href="#" data-scroll-nav="1">Produkte</a>
                     </li>
@@ -119,7 +95,7 @@ export default function Index() {
         <div className="col-md-5">
           <div className="caption-img d-table text-center">
             <div className="d-table-cell align-middle">
-              <img src="../styles/images/iphone.png" className="img-fluid animation-jump" alt="image" />
+              <img src="https://cdn.shopify.com/s/files/1/0515/4819/2958/products/remove_iphone_1080x.png?v=1649978990" className="img-fluid animation-jump" alt="image" />
             </div>
           </div>
         </div>
@@ -131,16 +107,6 @@ export default function Index() {
 
         <section id="video-area">
           <div className="container">
-            <div className="row">
-              <div className="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                <div className="sec-heading text-center">
-                  <h6>Product Demo</h6>
-                  <h2>Get product more information from the video</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic explicabo voluptas nisi iste
-                    reiciendis, tempore commodi necessitatibus, laborum laudantium.</p>
-                </div>
-              </div>
-            </div>
             <div className="row">
               <div className="col-lg-10 offset-lg-1">
                 <div className="video-player-wrap">
@@ -155,6 +121,26 @@ export default function Index() {
             </div>
           </div>
         </section>
+
+
+
+          {/*          <div className="prod-single text-center three">
+                      <div className="prod-img">
+                        <img src="https://cdn.shopify.com/s/files/1/0515/4819/2958/products/remove_iphone_1080x.png?v=1649978990" className="img-fluid animation-jump" alt="" />
+                      </div>
+                      <div className="prod-info three">
+                        <h4>Olimus Blue</h4>
+                        <span className="star-rating"><i className="icofont-star"></i><i className="icofont-star"></i><i
+                            className="icofont-star"></i><i className="icofont-star"></i><i
+                            className="icofont-star"></i></span>
+                        <h5>$169</h5>
+                        <a href="#">Buy Now</a>
+                      </div>
+                    </div>*/}
+
+
+        </section>
+
 
       </>
 
